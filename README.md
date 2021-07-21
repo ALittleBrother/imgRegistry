@@ -1,2 +1,1 @@
-# picgo
-picgo registry
+# picgo images
